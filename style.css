@@ -69,7 +69,7 @@ small {
   padding-top: 30px;
   text-decoration: none;
   padding: 15px 30px;
-  background: linear-gradient(#eb3349, #f45c43);
+  background: linear-gradient(#ff5733, #ffa233);
   border-radius: 25px;
   color: white;
   font-weight: bold;
@@ -86,7 +86,7 @@ small {
 }
 
 .recipie-heading {
-  display: inline-block;
+  display: inline-blockc;
   text-align: center;
   margin: 0 25%;
   width: 50%;
