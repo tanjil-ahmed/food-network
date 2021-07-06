@@ -43,7 +43,16 @@ footer {
 #subscriber {
   margin: 80px auto 30px;
 }
-
+.links {
+  margin-top: 5%;
+}
+.links a {
+  text-decoration: none;
+  color: #f45c43;
+  padding-right: 40px;
+  font-weight: bold;
+  font-size: 2em;
+}
 .top-heading {
   margin-top: 10%;
   padding-bottom: 30px;
