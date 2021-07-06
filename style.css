@@ -23,7 +23,7 @@ small {
 
 #mid-section {
   display: flex;
-  background-image: url(images/midframe2.jpg);
+  background-image: url(images/framemid.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   margin-bottom: 100px;
@@ -54,7 +54,6 @@ small {
   display: inline;
   box-shadow: 15px 10px 30px rgb(163, 163, 163);
   padding: 20px;
-
   border-radius: 10px;
   width: 25%;
 }
@@ -79,7 +78,7 @@ small {
 .contact-button {
   text-decoration: none;
   padding: 15px 30px;
-  background: linear-gradient(#33ebe2, #4d97f7);
+  background: linear-gradient(#eb3349, #f45c43);
   border-radius: 25px;
   color: white;
   font-weight: bold;
@@ -89,12 +88,14 @@ small {
 .recipie-heading {
   display: inline-block;
   text-align: center;
-  margin: 0 auto;
   margin: 0 25%;
   width: 50%;
   padding-bottom: ;
 }
-
+.bold {
+  color: rgb(44, 44, 44);
+  font-weight: bold;
+}
 .orange-color {
   color: gold;
 }
@@ -124,9 +125,6 @@ small {
   background-color: black;
 }
 
-.footer-heading {
-  color: rgb(58, 138, 124);
-}
 .footer-small {
   color: white;
 }
